@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/PostgresSQL.md",
+                "file": "Omnivore/2024-09-13/Getting to Know the Collection Hierarchy - Dev.java.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/PostgresSQL.md",
+                "file": "Omnivore/2024-09-13/Getting to Know the Collection Hierarchy - Dev.java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/PostgresSQL.md",
+                "file": "Omnivore/2024-09-13/Getting to Know the Collection Hierarchy - Dev.java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/PostgresSQL.md"
+                "file": "Omnivore/2024-09-13/Getting to Know the Collection Hierarchy - Dev.java.md"
               }
             }
           },
@@ -172,10 +172,12 @@
   "active": "1e734fbb465dcf1c",
   "lastOpenFiles": [
     "Spring/Kafka-setup-docker-compose.md",
+    "Omnivore/2024-09-13/Getting to Know the Collection Hierarchy - Dev.java.md",
+    "Omnivore/2024-09-13",
+    "Spring/PostgresSQL.md",
     "Books/Effective Java (2017, Addison-Wesley).pdf",
     "function types. T (Page 214).md",
     "Highlights for Effective Java (2017, Addison-Wesley).md",
-    "Spring/PostgresSQL.md",
     "Java/Class and Objects.md",
     "Excalidraw/Drawing 2024-09-12 15.55.46.excalidraw.md",
     "Excalidraw",
