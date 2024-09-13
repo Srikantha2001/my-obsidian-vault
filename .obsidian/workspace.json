@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Omnivore/2024-09-13/Getting to Know the Collection Hierarchy - Dev.java.md",
+                "file": "Spring/Kafka-setup-docker-compose.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Omnivore/2024-09-13/Getting to Know the Collection Hierarchy - Dev.java.md",
+                "file": "Spring/Kafka-setup-docker-compose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Omnivore/2024-09-13/Getting to Know the Collection Hierarchy - Dev.java.md",
+                "file": "Spring/Kafka-setup-docker-compose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Omnivore/2024-09-13/Getting to Know the Collection Hierarchy - Dev.java.md"
+                "file": "Spring/Kafka-setup-docker-compose.md"
               }
             }
           },
@@ -171,8 +171,8 @@
   },
   "active": "1e734fbb465dcf1c",
   "lastOpenFiles": [
-    "Spring/Kafka-setup-docker-compose.md",
     "Omnivore/2024-09-13/Getting to Know the Collection Hierarchy - Dev.java.md",
+    "Spring/Kafka-setup-docker-compose.md",
     "Omnivore/2024-09-13",
     "Spring/PostgresSQL.md",
     "Books/Effective Java (2017, Addison-Wesley).pdf",
