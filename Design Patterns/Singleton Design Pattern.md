@@ -50,4 +50,4 @@ public class Singleton {
 -  Both instance variable and constructor  are  <mark style="background: #D2B3FFA6;">private</mark>
 -  Both instance variable and *getInstance()* are <mark style="background: #FF5582A6;">static</mark>
 
-![[singletonClassDiagram.png]]
+![Singleton class diagram](singletonClassDiagram.png)
