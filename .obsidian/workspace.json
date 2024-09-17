@@ -14,25 +14,12 @@
               "type": "markdown",
               "state": {
                 "file": "Design Patterns/Singleton Design Pattern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37535d95d53fa156",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Patterns/Singleton Design Pattern.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,12 +157,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c356d9c4e22b3feb",
+  "active": "1e734fbb465dcf1c",
   "lastOpenFiles": [
+    "Pasted image 20240918000203.png",
+    "Design Patterns/Singleton Design Pattern.md",
+    "Design Patterns/resources/multiThreadSynchronized.png",
+    "Design Patterns/resources/multiThreadProblem.png",
+    "Pasted image 20240917235413.png",
+    "Pasted image 20240917235355.png",
+    "resources/multiThreadingScenario.md",
+    "resources",
+    "Design Patterns/resources/multiThreadingScenario.png",
+    "Excalidraw/Drawing 2024-09-17 23.22.17.excalidraw.md",
     "Design Patterns/resources",
     "Design Patterns/resources/singletonClassDiagram.png",
-    "Excalidraw/Drawing 2024-09-17 23.22.17.excalidraw.md",
-    "Design Patterns/Singleton Design Pattern.md",
     "Excalidraw",
     "Spring/PostgresSQL.md",
     "Design Patterns",
@@ -202,8 +197,6 @@
     "Projects/To-do Application.md",
     "Java/Enums And Annotations.md",
     "Projects/Untitled",
-    "Projects",
-    "Spring",
     "Welcome.md"
   ]
 }
