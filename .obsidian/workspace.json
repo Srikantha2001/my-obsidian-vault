@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "79d122419d7e2079",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Books/Effective Java (2017, Addison-Wesley).pdf"
-              }
-            }
-          },
-          {
             "id": "1e734fbb465dcf1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Kafka-setup-docker-compose.md",
+                "file": "Spring/PostgresSQL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Kafka-setup-docker-compose.md",
+                "file": "Spring/PostgresSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Kafka-setup-docker-compose.md",
+                "file": "Spring/PostgresSQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Kafka-setup-docker-compose.md"
+                "file": "Spring/PostgresSQL.md"
               }
             }
           },
@@ -164,18 +153,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-omnivore:Omnivore": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "1e734fbb465dcf1c",
   "lastOpenFiles": [
-    "Omnivore/2024-09-13/Getting to Know the Collection Hierarchy - Dev.java.md",
     "Spring/Kafka-setup-docker-compose.md",
+    "Books/Effective Java (2017, Addison-Wesley).pdf",
+    "Omnivore/2024-09-13/Getting to Know the Collection Hierarchy - Dev.java.md",
     "Omnivore/2024-09-13",
     "Spring/PostgresSQL.md",
-    "Books/Effective Java (2017, Addison-Wesley).pdf",
     "function types. T (Page 214).md",
     "Highlights for Effective Java (2017, Addison-Wesley).md",
     "Java/Class and Objects.md",
