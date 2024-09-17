@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Design Patterns/Singleton Design Pattern.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -159,16 +159,16 @@
   },
   "active": "1e734fbb465dcf1c",
   "lastOpenFiles": [
-    "Pasted image 20240918000203.png",
+    "Design Patterns/resources/multiThreadingScenario.png",
     "Design Patterns/Singleton Design Pattern.md",
+    "Excalidraw/Drawing 2024-09-17 23.22.17.excalidraw.md",
+    "Pasted image 20240918000203.png",
     "Design Patterns/resources/multiThreadSynchronized.png",
     "Design Patterns/resources/multiThreadProblem.png",
     "Pasted image 20240917235413.png",
     "Pasted image 20240917235355.png",
     "resources/multiThreadingScenario.md",
     "resources",
-    "Design Patterns/resources/multiThreadingScenario.png",
-    "Excalidraw/Drawing 2024-09-17 23.22.17.excalidraw.md",
     "Design Patterns/resources",
     "Design Patterns/resources/singletonClassDiagram.png",
     "Excalidraw",
