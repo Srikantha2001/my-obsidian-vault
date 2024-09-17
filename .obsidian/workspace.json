@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/PostgresSQL.md",
+                "file": "Design Patterns/Singleton Design Pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37535d95d53fa156",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Patterns/Singleton Design Pattern.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/PostgresSQL.md",
+                "file": "Design Patterns/Singleton Design Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/PostgresSQL.md",
+                "file": "Design Patterns/Singleton Design Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/PostgresSQL.md"
+                "file": "Design Patterns/Singleton Design Pattern.md"
               }
             }
           },
@@ -153,21 +166,27 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-omnivore:Omnivore": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e734fbb465dcf1c",
+  "active": "c356d9c4e22b3feb",
   "lastOpenFiles": [
+    "Design Patterns/resources",
+    "Design Patterns/resources/singletonClassDiagram.png",
+    "Excalidraw/Drawing 2024-09-17 23.22.17.excalidraw.md",
+    "Design Patterns/Singleton Design Pattern.md",
+    "Excalidraw",
+    "Spring/PostgresSQL.md",
+    "Design Patterns",
     "Spring/Kafka-setup-docker-compose.md",
     "Books/Effective Java (2017, Addison-Wesley).pdf",
     "Omnivore/2024-09-13/Getting to Know the Collection Hierarchy - Dev.java.md",
     "Omnivore/2024-09-13",
-    "Spring/PostgresSQL.md",
     "function types. T (Page 214).md",
     "Highlights for Effective Java (2017, Addison-Wesley).md",
     "Java/Class and Objects.md",
     "Excalidraw/Drawing 2024-09-12 15.55.46.excalidraw.md",
-    "Excalidraw",
     "Omnivore/2024-09-12/Mastering Kafka- Advanced Concepts Every Senior Software Engineer Should Know - by Manjula Piyuma....md",
     "Excalidraw/Drawing 2024-09-12 15.33.14.excalidraw.md",
     "Omnivore/2024-09-12/Getting Started with Omnivore.md",
@@ -185,7 +204,6 @@
     "Projects/Untitled",
     "Projects",
     "Spring",
-    "Welcome.md",
-    "Java"
+    "Welcome.md"
   ]
 }
