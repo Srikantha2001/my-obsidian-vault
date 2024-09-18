@@ -95,6 +95,7 @@ public class SingletonMainClass {
 ##### 1. Using *synchronized* keyword
 
 - Make the *getInstance()* method <mark style="background: #ADCCFFA6;">synchronized</mark> to make sure it is executed by only one thread at a time
+- This will affect the performance since the getInstance method is always executed synchronously even though we have instance already created.
 ```Java
 public static synchronized Singleton getInstance() {
 
@@ -110,3 +111,50 @@ public static synchronized Singleton getInstance() {
 OUTPUT
 
 ![](resources/multiThreadSynchronized.png)
+
+##### 2. Using *Double Checked Locking* method
+
+- Instead of synchronising entire method, we can just synchronize new instance creation part. this improves performance and only have single instance.
+- But only available after java 1.4
+```Java
+package io.sriki;  
+  
+public class SingletonDoubleChecked {  
+    private volatile static SingletonDoubleChecked singletonDoubleChecked;  
+  
+    private int first;  
+    private int second;  
+  
+    // Singleton classes can only be instantiated using the static method to control the creation of object.  
+    // so the constructor is private  
+    private SingletonDoubleChecked(){  
+        this.first=0;  
+        this.second=10;  
+    }  
+  
+    public static SingletonDoubleChecked getInstance() {  
+  
+        // instance is not created yet ( LAZY INSTANTIATION )  
+        synchronized(SingletonDoubleChecked.class){  
+            if(singletonDoubleChecked == null){  
+                singletonDoubleChecked = new SingletonDoubleChecked();  
+            }  
+        }  
+  
+        // if instance is not null, return the instance  
+        return singletonDoubleChecked;  
+    }  
+  
+    public int getFirst(){  
+        return this.first;  
+    }  
+  
+    public int getSecond() {  
+        return this.second;  
+    }  
+  
+}
+```
+
+- <mark style="background: #FFB86CA6;">volatile</mark> prevents caching of instance in each processor and force it to directly modify variable from main memory
+- <mark style="background: #FFF3A3A6;">synchronized block </mark> synchronises instance creation code block.

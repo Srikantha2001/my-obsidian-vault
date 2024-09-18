@@ -23,9 +23,11 @@
             "id": "0dcfd8a6d58593d6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-18 00.15.32.excalidraw.md"
+                "file": "Design Patterns/Singleton Design Pattern.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-18 00.15.32.excalidraw.md",
+                "file": "Design Patterns/Singleton Design Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-18 00.15.32.excalidraw.md",
+                "file": "Design Patterns/Singleton Design Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-18 00.15.32.excalidraw.md"
+                "file": "Design Patterns/Singleton Design Pattern.md"
               }
             }
           },
@@ -170,8 +172,8 @@
   },
   "active": "0dcfd8a6d58593d6",
   "lastOpenFiles": [
-    "Design Patterns/Singleton Design Pattern.md",
     "Excalidraw/Drawing 2024-09-18 00.15.32.excalidraw.md",
+    "Design Patterns/Singleton Design Pattern.md",
     "Excalidraw",
     "Design Patterns/resources/multiThreadingScenario.png",
     "Excalidraw/Drawing 2024-09-17 23.22.17.excalidraw.md",
