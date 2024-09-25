@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1e734fbb465dcf1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Patterns/Singleton Design Pattern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0dcfd8a6d58593d6",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Drawing 2024-09-18 00.15.32.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "2dd3535110982470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Streams API.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-18 00.15.32.excalidraw.md",
+                "file": "Java/Streams API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-18 00.15.32.excalidraw.md",
+                "file": "Java/Streams API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-18 00.15.32.excalidraw.md"
+                "file": "Java/Streams API.md"
               }
             }
           },
@@ -168,10 +168,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0dcfd8a6d58593d6",
+  "active": "2dd3535110982470",
   "lastOpenFiles": [
-    "Design Patterns/Singleton Design Pattern.md",
     "Excalidraw/Drawing 2024-09-18 00.15.32.excalidraw.md",
+    "Java/Streams API.md",
+    "Java",
+    "Design Patterns/Singleton Design Pattern.md",
     "Excalidraw",
     "Design Patterns/resources/multiThreadingScenario.png",
     "Excalidraw/Drawing 2024-09-17 23.22.17.excalidraw.md",
@@ -208,7 +210,6 @@
     "Untitled.md",
     "Projects/To-do Application.md",
     "Java/Enums And Annotations.md",
-    "Projects/Untitled",
     "Welcome.md"
   ]
 }
