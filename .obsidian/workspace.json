@@ -153,7 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 266.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,7 +168,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2dd3535110982470",
+  "active": "85e4e339fe0cd3b0",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-09-18 00.15.32.excalidraw.md",
     "Java/Streams API.md",
