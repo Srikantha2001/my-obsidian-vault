@@ -1,7 +1,7 @@
 {
-  "cssTheme": "",
+  "cssTheme": "Border",
   "accentColor": "#1a6b8e",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "interfaceFontFamily": "",
   "textFontFamily": "Comic Sans MS"
 }
