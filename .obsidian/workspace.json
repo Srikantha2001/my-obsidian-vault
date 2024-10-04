@@ -21,14 +21,26 @@
             "id": "2dd3535110982470",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/Reactive Spring.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0efb6836e2ef036",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-18 00.15.32.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-10-04 21.55.03.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-18 00.15.32.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-10-04 21.55.03.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-18 00.15.32.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-10-04 21.55.03.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-18 00.15.32.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-10-04 21.55.03.excalidraw.md"
               }
             }
           },
@@ -166,10 +178,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2dd3535110982470",
+  "active": "e0efb6836e2ef036",
   "lastOpenFiles": [
-    "Java/Streams API.md",
+    "Spring/Reactive Spring.md",
+    "Excalidraw/Drawing 2024-10-04 21.55.03.excalidraw.md",
+    "Spring/PostgresSQL.md",
+    "Spring/Kafka-setup-docker-compose.md",
     "Excalidraw/Drawing 2024-09-18 00.15.32.excalidraw.md",
+    "Java/Streams API.md",
     "GoLang/Basics.md",
     "GoLang",
     "Java",
@@ -186,9 +202,7 @@
     "resources",
     "Design Patterns/resources",
     "Design Patterns/resources/singletonClassDiagram.png",
-    "Spring/PostgresSQL.md",
     "Design Patterns",
-    "Spring/Kafka-setup-docker-compose.md",
     "Books/Effective Java (2017, Addison-Wesley).pdf",
     "Omnivore/2024-09-13/Getting to Know the Collection Hierarchy - Dev.java.md",
     "Omnivore/2024-09-13",
@@ -208,7 +222,6 @@
     "Spring/Sample Project Setup with Database.md",
     "Untitled.md",
     "Projects/To-do Application.md",
-    "Java/Enums And Annotations.md",
-    "Welcome.md"
+    "Java/Enums And Annotations.md"
   ]
 }
