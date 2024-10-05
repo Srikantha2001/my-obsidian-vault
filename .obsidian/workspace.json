@@ -33,9 +33,11 @@
             "id": "e0efb6836e2ef036",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-04 21.55.03.excalidraw.md"
+                "file": "Spring/Reactive Spring.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-04 21.55.03.excalidraw.md",
+                "file": "Spring/Reactive Spring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-04 21.55.03.excalidraw.md",
+                "file": "Spring/Reactive Spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-04 21.55.03.excalidraw.md"
+                "file": "Spring/Reactive Spring.md"
               }
             }
           },
@@ -180,8 +182,8 @@
   },
   "active": "e0efb6836e2ef036",
   "lastOpenFiles": [
-    "Spring/Reactive Spring.md",
     "Excalidraw/Drawing 2024-10-04 21.55.03.excalidraw.md",
+    "Spring/Reactive Spring.md",
     "Spring/PostgresSQL.md",
     "Spring/Kafka-setup-docker-compose.md",
     "Excalidraw/Drawing 2024-09-18 00.15.32.excalidraw.md",
