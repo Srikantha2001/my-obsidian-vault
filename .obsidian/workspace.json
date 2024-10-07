@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Hackerrank/code/Append_And_Delete.md",
+                "file": "DSA/Hackerrank/code/Jumping on the clouds.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Hackerrank/code/Append_And_Delete.md",
+                "file": "DSA/Hackerrank/code/Jumping on the clouds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Hackerrank/code/Append_And_Delete.md",
+                "file": "DSA/Hackerrank/code/Jumping on the clouds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Hackerrank/code/Append_And_Delete.md"
+                "file": "DSA/Hackerrank/code/Jumping on the clouds.md"
               }
             }
           },
@@ -171,14 +171,19 @@
   "active": "2dd3535110982470",
   "lastOpenFiles": [
     "DSA/Hackerrank/Problems List.md",
+    "DSA/Hackerrank/code/Jumping on the clouds.md",
+    "DSA/SDE Sheet/graphs/Notes.md",
+    "Pasted image 20241007052200.png",
+    "Excalidraw/Drawing 2024-09-18 00.15.32.excalidraw.md",
     "DSA/Hackerrank/code/Append_And_Delete.md",
+    "DSA/SDE Sheet/graphs",
+    "DSA/SDE Sheet/Untitled.md",
     "code/Append_And_Delete.md",
     "Spring/Reactive Spring.md",
     "code/Append.md",
     "code",
     "code.md",
     "DSA/Hackerrank/code",
-    "Excalidraw/Drawing 2024-09-18 00.15.32.excalidraw.md",
     "DSA/Hackerrank",
     "DSA/SDE Sheet",
     "DSA",
@@ -200,7 +205,6 @@
     "Pasted image 20240917235355.png",
     "resources/multiThreadingScenario.md",
     "resources",
-    "Design Patterns/resources",
     "Design Patterns/resources/singletonClassDiagram.png",
     "Omnivore/2024-09-13/Getting to Know the Collection Hierarchy - Dev.java.md",
     "function types. T (Page 214).md",
@@ -209,9 +213,6 @@
     "Excalidraw/Drawing 2024-09-12 15.55.46.excalidraw.md",
     "Omnivore/2024-09-12/Mastering Kafka- Advanced Concepts Every Senior Software Engineer Should Know - by Manjula Piyuma....md",
     "Excalidraw/Drawing 2024-09-12 15.33.14.excalidraw.md",
-    "Omnivore/2024-09-12/Getting Started with Omnivore.md",
-    "Omnivore/2024-09-12/Sequenced Collections in Java - Baeldung.md",
-    "Omnivore/2024-09-12/The Secret Power of ‘Read It Later’ Apps.md",
-    "Omnivore/2024-09-12/What Is the Go Programming Language (Golang)- - Definition from TechTarget.md"
+    "Omnivore/2024-09-12/Getting Started with Omnivore.md"
   ]
 }
