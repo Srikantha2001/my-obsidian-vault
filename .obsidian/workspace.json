@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Hackerrank/code/Jumping on the clouds.md",
+                "file": "DSA/SDE Sheet/heaps/Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "b60cce3ee51c191b",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Hackerrank/code/Jumping on the clouds.md",
+                "file": "DSA/SDE Sheet/heaps/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Hackerrank/code/Jumping on the clouds.md",
+                "file": "DSA/SDE Sheet/heaps/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Hackerrank/code/Jumping on the clouds.md"
+                "file": "DSA/SDE Sheet/heaps/Notes.md"
               }
             }
           },
@@ -169,13 +168,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "85e4e339fe0cd3b0",
+  "active": "2dd3535110982470",
   "lastOpenFiles": [
+    "DSA/SDE Sheet/graphs/Notes.md",
+    "DSA/SDE Sheet/heaps/Notes.md",
+    "DSA/SDE Sheet/heaps",
+    "Excalidraw/Drawing 2024-09-18 00.15.32.excalidraw.md",
     "DSA/Hackerrank/Problems List.md",
     "DSA/Hackerrank/code/Jumping on the clouds.md",
-    "DSA/SDE Sheet/graphs/Notes.md",
     "Pasted image 20241007052200.png",
-    "Excalidraw/Drawing 2024-09-18 00.15.32.excalidraw.md",
     "DSA/Hackerrank/code/Append_And_Delete.md",
     "DSA/SDE Sheet/graphs",
     "DSA/SDE Sheet/Untitled.md",
@@ -205,7 +206,6 @@
     "Pasted image 20240917235413.png",
     "Pasted image 20240917235355.png",
     "resources/multiThreadingScenario.md",
-    "resources",
     "Design Patterns/resources/singletonClassDiagram.png",
     "Omnivore/2024-09-13/Getting to Know the Collection Hierarchy - Dev.java.md",
     "function types. T (Page 214).md",
@@ -213,7 +213,6 @@
     "Java/Class and Objects.md",
     "Excalidraw/Drawing 2024-09-12 15.55.46.excalidraw.md",
     "Omnivore/2024-09-12/Mastering Kafka- Advanced Concepts Every Senior Software Engineer Should Know - by Manjula Piyuma....md",
-    "Excalidraw/Drawing 2024-09-12 15.33.14.excalidraw.md",
-    "Omnivore/2024-09-12/Getting Started with Omnivore.md"
+    "Excalidraw/Drawing 2024-09-12 15.33.14.excalidraw.md"
   ]
 }
