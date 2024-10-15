@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b60cce3ee51c191b",
@@ -168,7 +169,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2dd3535110982470",
+  "active": "85e4e339fe0cd3b0",
   "lastOpenFiles": [
     "DSA/Hackerrank/Problems List.md",
     "DSA/Hackerrank/code/Jumping on the clouds.md",
