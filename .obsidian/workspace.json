@@ -164,8 +164,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-omnivore:Omnivore": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "2dd3535110982470",
