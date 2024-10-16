@@ -11,10 +11,8 @@
             "id": "0dcfd8a6d58593d6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-09-18 00.15.32.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -164,7 +162,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-omnivore:Omnivore": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "2dd3535110982470",
